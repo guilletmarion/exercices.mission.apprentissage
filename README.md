@@ -1,2 +1,3 @@
 # exercices.mission.apprentissage
-Repository de test pour exercices Github
+
+Ce repository est un repository de tests dédié aux exercices Github
